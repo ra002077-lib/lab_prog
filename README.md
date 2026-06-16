@@ -16,5 +16,5 @@ A ,atéria de Laboratório de Progamção é o coração da formação de um des
 | :--- | :--- | :--- |
 | 01 | Introdução ao ambiente de terminal | Concluido |
 | 02 | Tipos de Dados e variáveis | Em progresso |
-| 03 | Estruturas de repetiçãi | Agendado |
+| 03 | Estruturas de repetição | Agendado |
 ---
